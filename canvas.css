@@ -1,0 +1,13 @@
+canvas{
+    background-color: greenyellow;
+    border: 2px solid black;
+    align-content: center;
+    margin-top: 30px;
+    margin-left:20%;
+
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+}
